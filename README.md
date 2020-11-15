@@ -1,5 +1,5 @@
 # PROYECTO TRIMESTRAL
-> Author: Miguel
+> Author: Miguel  
 > Asignatura: GBD No Relacionadas
 ## Carpetas
 | Carpeta | Descripcion |
